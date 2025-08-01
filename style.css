@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  text-align: center;
+  background: #222;
+}
+
+canvas, video {
+  transform: scaleX(-1);
+  border-radius: 16px;
+  margin-top: 32px;
+}
